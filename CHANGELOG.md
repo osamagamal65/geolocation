@@ -1,3 +1,7 @@
+
+## [0.2.3]
+* Upgrade to SDK 28
+
 ## [0.2.1]
 
 * Replace `requestPermission(permission)` named parameter by positional
